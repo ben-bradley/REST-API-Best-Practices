@@ -13,7 +13,7 @@ A route is where the rubber meets the road for a REST API.  They're what your co
 The best pattern that I've found for doing this is most simply described below:
 
 ### `/name/...`
-`
+
 - `name`: This is the name of your API, `pets` in our example.  It should be something short, simple, and user-friendly.  It gives you a namesapce on the server to attach your API.
 
 ### `/name/version/...`
